@@ -9,7 +9,7 @@ import javax.swing.*;;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author Toshiba
+ * @author Fikri Ikmalul
  */
 public class menupanel extends javax.swing.JFrame {
     
